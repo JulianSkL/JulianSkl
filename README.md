@@ -1,26 +1,49 @@
-## Bem-vindo(a) ao perfil do JulianSkl😁
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
 
- <div>
-   <a href="https://github.com/JulianSkl">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianSkl&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianSkl&layout=compact&langs_count=6&theme=vision-friendly-dark"/>
+
+<h1 align="center">Olá! Eu sou Julian 👋</h1>
+
+<div>
+ <h2>Sobre mim 💎</h2> 
+Meu nome é Julian da Conceição Carvalho e atualmente sou estudante de Java. Sou completamente apaixonado por tecnologias em geral, gosto muito do Full-Stack, porém no momento estou focando no Back-End com Java, estou em busca da minha primeira vaga de programador júnior para começar a atuar na área.
+</div>
+
+<h2>Se conecte comigo 🔗</h2>   
+
+<div style="display: flex">
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-da-conceição-carvalho-1ab537262/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:Julianconceicao@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianSkL)
+</div>
+
+<h2>Tecnologias 💻</h2>
+
+<div style="display: flex">
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+
+<h2>GitHub Status📈</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01VitorHugo&layout=compact&langs_count=7&theme=react)
+
 </div>
- 
  <br>
- 
- 
-<div> 
-  <a href="https://instagram.com/julianccarvalho_
-" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "julianconceicao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julian-da-conceição-carvalho-1ab537262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+<h2>Sistema operacional🌌</h2>
 
-</div>
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+<br>
+
